@@ -17,7 +17,7 @@ namespace ALLYOUCANFIT2
         private double targetCalories;
         private double targetProtein;
         private double targetCarbs;
-        private Food best;
+        private Food bestFood;
 
         public Form3(string goal, double calories, double protein, double carbs)
         {
